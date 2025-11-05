@@ -1,7 +1,6 @@
 # 💱 Conversor de Monedas - Challenge Alura
 
-![Java](https://img.shields.io/badge/Java-17+-blue.svg)
-![Maven](https://img.shields.io/badge/Maven-3.8+-red.svg)
+![Java](https://img.shields.io/badge/Java-21+-blue.svg)
 ![Status](https://img.shields.io/badge/Status-Completado-success.svg)
 
 ## 📋 Descripción
