@@ -26,8 +26,7 @@ Aplicación de consola desarrollada en Java que permite convertir entre diferent
 
 ## 🛠️ Tecnologías Utilizadas
 
-- **Java 17**
-- **Maven** - Gestión de dependencias
+- **Java 21**
 - **Gson** - Procesamiento de JSON
 - **HttpClient** - Consumo de API REST
 - **ExchangeRate-API** - Proveedor de tasas de cambio
@@ -36,20 +35,21 @@ Aplicación de consola desarrollada en Java que permite convertir entre diferent
 ## 📦 Estructura del Proyecto
 
 ```
-ConversorMonedas/
-├── src/
-│   ├── config/
-│   │   └── ConfigAPI.java          # Configuración de la API
-│   ├── modelos/
-│   │   ├── Moneda.java             # Modelo de moneda
-│   │   └── RespuestaAPI.java       # Modelo de respuesta API
-│   ├── servicios/
-│   │   ├── ConsumidorAPI.java      # Cliente HTTP
-│   │   └── ConversorService.java   # Lógica de conversión
-│   └── principal/
-│       └── Principal.java          # Clase principal
-├── pom.xml                          # Configuración Maven
-└── README.md
+conversor-monedas/
+│
+├── 📂 .idea/                          # Configuración de IntelliJ (no subir a Git)
+├── 📂 target/                         # Archivos compilados (no subir a Git)
+│
+├── 📂 src/
+│   └── 📂 com.challengeone.java.backend.conversormonedas/
+│       ├── 📄 Conversor.java          # 150 líneas aprox.
+│       ├── 📄 ConversorApp.java       # 200 líneas aprox.
+│       ├── 📄 HistorialConversiones.java  # 100 líneas aprox.
+│       ├── 📄 Moneda.java             # 80 líneas aprox.
+│       └── 📄 ServicioAPI.java        # 120 líneas aprox.
+│
+├── 📄 .gitignore                      # Ignorar archivos sensibles
+└── 📄 README.md                       # Este archivo
 ```
 
 ## ⚙️ Instalación y Configuración
@@ -66,8 +66,8 @@ ConversorMonedas/
 
 1. **Clonar el repositorio**
 ```bash
-git clone https://github.com/tu-usuario/conversor-monedas.git
-cd conversor-monedas
+git clone https://github.com/catochohn/conversor-moneda-alura
+cd conversor-monedas-alura
 ```
 
 2. **Obtener API Key**
