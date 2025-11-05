@@ -179,7 +179,7 @@ Ingresa el valor que deseas convertir: 25
 ## 👨‍💻 Autor
 
 **Tu Nombre**
-- GitHub: [@catochohn](https://github.com/catochohn/conversor-moneda-alura)
+- GitHub: [@catochohn](https://github.com/catochohn)
 - LinkedIn: [Eduardo Aguilar](www.linkedin.com/in/eduardo-aguilar-62a765384)
 
 ## 📄 Licencia
