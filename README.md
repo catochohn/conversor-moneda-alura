@@ -180,8 +180,8 @@ Ingresa el valor que deseas convertir: 25
 ## 👨‍💻 Autor
 
 **Tu Nombre**
-- GitHub: [@tu-usuario](https://github.com/tu-usuario)
-- LinkedIn: [tu-perfil](https://linkedin.com/in/tu-perfil)
+- GitHub: [@catochohn](https://github.com/catochohn/conversor-moneda-alura)
+- LinkedIn: [Eduardo Aguilar](www.linkedin.com/in/eduardo-aguilar-62a765384)
 
 ## 📄 Licencia
 
